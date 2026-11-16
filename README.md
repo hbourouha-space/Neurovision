@@ -233,24 +233,28 @@ The SI agent is **planned, not implemented** in the current prototype. Its outpu
 7.  Seek domain-expert review before making physiological or clinical
     interpretations.
 
+## Public project demonstration
+
+Seven-slide project presentation:
+https://hbourouha-space.github.io/Neurovision/NeuroVision_NASA_7_Slide_Demo.html
+
+Project source repository:
+https://github.com/hbourouha-space/Neurovision
+
 ## How to run the prototype
 
-The current prototype was developed in Google Colab and uses Python,
-Gradio, Pandas, and Plotly. The exact notebook and dependency versions
-should be included in this repository when the final app file is
-exported from the owner's Google Drive.
+The repository contains the `NeuroVision_COMMAND_CENTER.ipynb` development
+notebook and the smaller `NeuroVision_FINAL_BACKUP.ipynb` fallback notebook.
+The prototype uses Python, Gradio, Pandas, and Plotly.
 
-1.  Open the notebook in Google Colab.
-2.  Review and run the notebook cells in order.
-3.  Launch the Gradio interface from the application cell.
-4.  Use the temporary public Gradio URL only for a short demonstration.
-    It is not permanent hosting.
+1. Open the notebook in Google Colab.
+2. Review the scientific-scope notes and run the dependency-install cell.
+3. Run the application cell in order.
+4. The notebook launches a temporary Gradio share URL for demonstration.
+   That URL is temporary and is not permanent application hosting.
 
-**Repository packaging note:** Add the verified
-`NeuroVision_FINAL_BACKUP.ipynb` file to the repository root before
-publishing. The notebook is not embedded in this documentation package
-because the live Google Drive notebook has not been exported into this
-workspace.
+The seven-slide presentation is published separately through GitHub Pages.
+The notebooks and presentation are publicly accessible from this repository.
 
 ## Responsible-use statement
 
