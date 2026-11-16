@@ -295,6 +295,14 @@ portal as a substitute for the specific dataset used.
 **Focus:** Spaceflight ocular research, optic nerve environment,
 computational engineering, and future neuroregeneration research
 
+
+
+## Judge preparation
+
+A practical guide with anticipated judge questions, accurate capability boundaries, a suggested demonstration route, and failed-demo recovery steps:
+
+https://github.com/hbourouha-space/Neurovision/blob/main/JUDGE_PREPARATION_GUIDE.md
+
 ## The Builder's Journey
 
 This challenge began with a practical uncertainty: I was worried about coding, working from a Chromebook, and learning unfamiliar tools. I chose to keep going, learn by building, and bring two engineering and research projects to submission for NASA Space Apps.
