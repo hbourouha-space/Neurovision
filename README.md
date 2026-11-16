@@ -282,3 +282,9 @@ portal as a substitute for the specific dataset used.
 **Project status:** Early-stage prototype and research concept\
 **Focus:** Spaceflight ocular research, optic nerve environment,
 computational engineering, and future neuroregeneration research
+
+## The Builder's Journey
+
+This challenge began with a practical uncertainty: I was worried about coding, working from a Chromebook, and learning unfamiliar tools. I chose to keep going, learn by building, and bring two engineering and research projects to submission for NASA Space Apps.
+
+NeuroVision is one of those two projects. Together with PHOENIX, it represents a personal learning journey in which curiosity, persistence, and a willingness to tackle unfamiliar technology turned two ideas into submitted research and engineering prototypes. Both projects are early-stage work, with their capabilities and limitations documented openly. The journey is still continuing.
