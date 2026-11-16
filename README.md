@@ -233,6 +233,14 @@ The SI agent is **planned, not implemented** in the current prototype. Its outpu
 7.  Seek domain-expert review before making physiological or clinical
     interpretations.
 
+## Lightweight browser dashboard
+
+A no-install, browser-based demonstration of the four workspaces (daily check-in, periodic measurements, synthetic relationship explorer, and simplified CFD/FEA workbench):
+
+https://hbourouha-space.github.io/Neurovision/NeuroVision_Lightweight_Dashboard.html
+
+The dashboard runs locally in the browser. It has no external runtime dependencies; manual entries are session-only. It is a demonstration interface, not a medical device or validated astronaut-health tool.
+
 ## Public project demonstration
 
 Seven-slide project presentation:
